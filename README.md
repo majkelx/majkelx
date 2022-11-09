@@ -1,0 +1,2 @@
+- PhD Candidate Astrophysics
+- IT architect and developer
