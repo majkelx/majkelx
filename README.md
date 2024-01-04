@@ -1,2 +1,3 @@
 - PhD Candidate Astrophysics
 - IT architect and developer
+- Maintainer and Observer on the [OCM Observatory](https://en.wikipedia.org/wiki/Cerro_Murphy_Observatory)
